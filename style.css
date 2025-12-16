@@ -1,0 +1,16 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#rollButton, #resetButton {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+#number {
+  font-size: 60px;
+}
